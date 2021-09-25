@@ -61,7 +61,6 @@ export default Vue.extend({
     position: fixed;
     transform: translateX(-50%);
     height: auto;
-    width: 550px;
     z-index: 9999;
 
     .close-modal {

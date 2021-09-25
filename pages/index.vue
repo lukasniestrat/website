@@ -42,13 +42,6 @@
             </div>
           </div>
         </div>
-        <div class="box__footer">
-          <nav role="navigation">
-            <a href="/projekte">
-              <span>Zu meinen Projekten</span>
-            </a>
-          </nav>
-        </div>
       </div>
     </div>
     <AppLegal />
@@ -99,7 +92,6 @@ export default Vue.extend({
   color: #fff;
   display: flex;
   flex-wrap: wrap;
-  height: 550px;
   margin: 0;
   padding: 50px 75px;
   position: relative;
